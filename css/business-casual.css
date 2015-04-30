@@ -101,6 +101,10 @@ hr {
     float: none;
     margin: 0 auto 0;
 }
+#krp-logo {
+    padding-left: 20px;
+
+}
 
 footer {
     background: #fff;
